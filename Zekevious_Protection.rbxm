@@ -8,7 +8,7 @@
 			<string name="Name">Zekevious_Protection</string>
 			<token name="RollOffMode">0</token>
 			<Ref name="SoundGroup">null</Ref>
-			<Ref name="Source">1037563187</Ref>
+			<Ref name="Source">null</Ref>
 			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
 			<float name="Volume">0</float>
@@ -18,10 +18,10 @@
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<bool name="AutoUpdate">true</bool>
 				<string name="Name">PackageLink</string>
-				<Content name="PackageIdSerialize"><url>Zeke#4251</url></Content>
+				<Content name="PackageIdSerialize"><url>Zeke#4251 OwO</url></Content>
 				<int64 name="SourceAssetId">-1</int64>
 				<BinaryString name="Tags"></BinaryString>
-				<int64 name="VersionIdSerialize">e621</int64>
+				<int64 name="VersionIdSerialize">1</int64>
 			</Properties>
 		</Item>
 	</Item>
